@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bef5fc3-3cbd-40d5-8530-bcc17b74c986" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>department</find>
+      <find>user</find>
+      <find>pageSize</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>user</replace>
+      <replace>permission</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/shiro/realm/UserRealm.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/FaceLoginController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/service/UserService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/controller/EmployeeController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_company/src/main/java/com/ihrm/company/ShiroConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/shiro/session/CustomerSessionManager.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/shiro/realm/IhrmRealm.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/service/PermissionService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/ShiroConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/service/FaceLoginService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/controller/UserController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ihrm_common_model/src/main/java/com/ihrm/domain/system/User.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QGxKhHCdThWsRqduWlhXRAoMxp" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>TodoComment</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554710132254" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ihrm.domain.system" />
+      <recent name="com.ihrm.company" />
+      <recent name="com.ihrm.system" />
+      <recent name="com.ihrm.domain.system.response" />
+      <recent name="com.ihrm.system.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\develop\hrm\ihrm_parent\ihrm_system\src\main\java\com\ihrm\system\controller" />
+      <recent name="F:\develop\hrm\ihrm_parent\ihrm_system\src\main\java\com\ihrm\system\service" />
+      <recent name="F:\develop\hrm\ihrm_parent\ihrm_system\src\main\java\com\ihrm\system\dao" />
+      <recent name="F:\develop\hrm\ihrm_parent\ihrm_system\src\main\java\com\ihrm\system\pojo" />
+      <recent name="F:\develop\hrm\ihrm_parent\ihrm_system\src\main\java\com\ihrm\system\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CompanyApplication">
+    <configuration name="UserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ihrm.system.controller.UserController" />
+      <module name="ihrm_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.system.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ihrm.company" />
+      <option name="MAIN_CLASS_NAME" value="com.ihrm.company.CompanyDaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_company" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.company.CompanyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ihrm_employee" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.employee.EmployeeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.eureka.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ihrm_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ihrm.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ihrm.system.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.UserController" />
+      <item itemvalue="Spring Boot.EmployeeApplication" />
+      <item itemvalue="Spring Boot.CompanyApplication" />
+      <item itemvalue="Spring Boot.SystemApplication" />
+      <item itemvalue="Spring Boot.EurekaServer" />
+      <item itemvalue="JUnit.CompanyDaoTest.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CompanyApplication" />
+        <item itemvalue="JUnit.CompanyDaoTest.test" />
+        <item itemvalue="Spring Boot.SystemApplication" />
+        <item itemvalue="Spring Boot.EurekaServer" />
+        <item itemvalue="Application.UserController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bef5fc3-3cbd-40d5-8530-bcc17b74c986" name="Default Changelist" comment="" />
+      <created>1550651673706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550651673706</updated>
+      <workItem from="1550651678998" duration="6227000" />
+      <workItem from="1550709153498" duration="403000" />
+      <workItem from="1550731712340" duration="6534000" />
+      <workItem from="1550796025861" duration="14704000" />
+      <workItem from="1550895053840" duration="6658000" />
+      <workItem from="1551059658116" duration="16108000" />
+      <workItem from="1551140998639" duration="1249000" />
+      <workItem from="1551250907406" duration="3536000" />
+      <workItem from="1551313936501" duration="8626000" />
+      <workItem from="1551400311565" duration="1486000" />
+      <workItem from="1551659614607" duration="101000" />
+      <workItem from="1551665407227" duration="1424000" />
+      <workItem from="1551763649583" duration="4886000" />
+      <workItem from="1551852207740" duration="8496000" />
+      <workItem from="1551919542321" duration="20845000" />
+      <workItem from="1552005252230" duration="13023000" />
+      <workItem from="1552264208672" duration="21482000" />
+      <workItem from="1552352056789" duration="8651000" />
+      <workItem from="1552526359228" duration="2094000" />
+      <workItem from="1552703267531" duration="3180000" />
+      <workItem from="1552728033180" duration="3096000" />
+      <workItem from="1552869577630" duration="14186000" />
+      <workItem from="1552955892690" duration="22167000" />
+      <workItem from="1553041918550" duration="13401000" />
+      <workItem from="1553128410682" duration="5241000" />
+      <workItem from="1553323091096" duration="611000" />
+      <workItem from="1553496100275" duration="6389000" />
+      <workItem from="1553560518291" duration="1240000" />
+      <workItem from="1553650336545" duration="4226000" />
+      <workItem from="1553737480475" duration="3611000" />
+      <workItem from="1553820109872" duration="6861000" />
+      <workItem from="1554081872652" duration="14054000" />
+      <workItem from="1554165468214" duration="2019000" />
+      <workItem from="1554252137288" duration="2261000" />
+      <workItem from="1554684826283" duration="4112000" />
+      <workItem from="1555462803245" duration="846000" />
+      <workItem from="1560157302934" duration="3360000" />
+      <workItem from="1560393689894" duration="1671000" />
+      <workItem from="1560404598537" duration="1828000" />
+      <workItem from="1560416818187" duration="2683000" />
+      <workItem from="1560731467108" duration="598000" />
+      <workItem from="1560741118443" duration="622000" />
+      <workItem from="1560749062969" duration="1369000" />
+      <workItem from="1567410674179" duration="3693000" />
+      <workItem from="1568163511924" duration="1354000" />
+      <workItem from="1568271394864" duration="11000" />
+      <workItem from="1569205694430" duration="728000" />
+      <workItem from="1569718712118" duration="5058000" />
+      <workItem from="1570494777226" duration="10792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ihrm_employee</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
